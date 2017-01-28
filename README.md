@@ -1,2 +1,2 @@
-# Simple app consuming Goodreads API - Nodejs/Express project
+# Simple app consuming Goodreads API - Nodejs/Express
 
