@@ -21,12 +21,14 @@ var books = [
             title: 'Dark Water',
             genre: 'Crime',
             author: 'Robert Bryndza',
+            bookId: 31433106,
             read: false
         },
         {
             title: 'Yesternight',
             genre: 'Mystery',
             author: 'Cat Winters',
+            bookId: 25566506,
             read: false
         }
 ];
